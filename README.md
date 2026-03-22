@@ -58,7 +58,7 @@ IPL-Winning-Prediction/
 
 Clone the repository:
 
-git clone https://github.com/your-username/ipl-winning-prediction.git
+git clone https://github.com/nitikasingh12/IPL-Winning-Predication-prediction.git
 cd ipl-winning-prediction
 
 Install dependencies:
